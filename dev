@@ -1,6 +1,7 @@
-echo "# Devon" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/dnags24/Devon.git
-git push -u origin master
+# hello-world
+
+Hi Humans !
+
+Devon here, i thoroughly enjoy learning JavaScript, HTML5, and Node.js
+I love to longboard, golf, and just enjoying the beautiful weather outside.
+If its raining, or snowing; you'll catch me inside playing video games or practicing coding.
