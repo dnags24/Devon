@@ -1,0 +1,6 @@
+echo "# Devon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dnags24/Devon.git
+git push -u origin master
